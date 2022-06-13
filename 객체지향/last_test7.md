@@ -1,4 +1,4 @@
-###7장
+### 7장
 ```
 #include <iostream>
 #include <string>
